@@ -12,7 +12,7 @@
  *            Plugin Name: No XMLRPC
  *            Plugin URI: https://github.com/linscombe/wp-no-xmlrpc
  *            Description: This plugin will disable xmlrpc in Wordpress
- *            Version: 1.0
+ *            Version: 1.0.0
  *            Author: Jason Linscombe
  *            Author URI: https://github.com/linscombe
  *            Text Domain: wp-no-xmlrpc
